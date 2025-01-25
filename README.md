@@ -1,4 +1,4 @@
-# Simple Task management system
+# Task management system
 
 This project aims to build an application programming interface (API) for task management, allowing users to create, update, view, delete, and assign tasks with multiple characteristics such as: The project includes a system for controlling roles (Roles) such as Administrator, Executive Director, Manager, And the regular user (User), ensuring that powers and tasks are appropriately allocated to each role.
 
